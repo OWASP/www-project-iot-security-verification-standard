@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Aaron Guzman](mailto:aaron.guzman@owasp.org)
+* [Cedric Bassem](mailto:cedric.bassem@owasp.org)

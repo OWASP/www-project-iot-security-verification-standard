@@ -5,10 +5,10 @@
 ![OWASP Documentation Project](assets/images/Project_Type_Files_DOC.jpg)
 
 ### Github Repository
- [ISVS Repo](https://github.com/OWASP/)
+Will be created soon
 
-### Getting Involved
-TODO
+### OWASP Slack
+[OWASP Slack](https://owasp.slack.com/)
 
 ### Licensing
 

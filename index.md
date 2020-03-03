@@ -2,21 +2,14 @@
 
 layout: col-sidebar
 title: OWASP IoT Security Verification Standard
-tags: example-tag
+tags: ISVS
 level: 1
-type: code/tool/documentation or other
-pitch: A very brief, one-line description of your project
+type: documentation or other
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+The OWASP Internet of Things Security Verification Standard (ISVS) provides security requirements for Internet of Things (IoT) applications. The requirements provided by the ISVS can be used at many steps during the SDLC of an IoT application. For example, by a designer during the design phase or by a security professional that whishes to assess the security posture of an existing IoT application.
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+IoT applications are often composed of many interconnected applications that together form a complex ecosystem. Securing an IoT application thus boils down to securing the ecosystem. The ISVS therefore specifies security requirements for embedded applications and the IoT ecosystem in which these reside while referring to existing industry-accepted standards as much as possible.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
-
-type: code, tool, documentation, or other
+The ISVS is currently in the very early stages of development. In case you are interested in contributing to this project, please reach out to the project leaders either via email or via the OWASP Slack.

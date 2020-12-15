@@ -5,7 +5,7 @@
 ![OWASP Documentation Project](assets/images/Project_Type_Files_DOC.jpg)
 
 ### Github Repository
-Will be created soon
+https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS
 
 ### OWASP Slack
 [OWASP Slack](https://owasp.slack.com/)

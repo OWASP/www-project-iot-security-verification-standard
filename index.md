@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP IoT Security Verification Standard
 tags: ISVS
-level: 1
+level: 2
 type: documentation or other
 
 ---

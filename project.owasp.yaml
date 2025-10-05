@@ -1,0 +1,31 @@
+audience:
+  - breaker
+  - defender
+community:
+  - name: project-isvs
+    platform: slack
+    url: https://owasp.slack.com/archives/C01600RMP9P
+    description: Internet of Things Security Verification Standard (ISVS) <https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS/>
+leaders:
+  - name: Aaron Guzman
+    email: aaron.guzman@owasp.org
+    github: scriptingxss
+  - name: Cédric Bassem
+    email: cedric.bassem@owasp.org
+    github: cbassem
+level: 2
+name: OWASP IoT Security Verification Standard
+pitch: Description for OWASP IoT Security Verification Standard
+repositories:
+  - name: www-project-iot-security-verification-standard
+    url: https://github.com/OWASP/www-project-iot-security-verification-standard
+    description: OWASP IoT Security Verification Standard
+  - name: IoT-Security-Verification-Standard-ISVS
+    url: https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS
+    description: OWASP IoT Security Verification Standard (ISVS)
+tags:
+  - ISVS
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-iot-security-verification-standard
